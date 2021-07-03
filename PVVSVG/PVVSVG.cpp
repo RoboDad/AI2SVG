@@ -1,5 +1,6 @@
 // PVVSVG.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
+// GIT TEST
 
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
